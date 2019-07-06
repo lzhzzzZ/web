@@ -1,0 +1,21 @@
+.h1{
+	display: block;
+	color: white;
+	background-color:silver;
+	}
+	.li1{
+		text-align: center;
+		line-height: 100px;
+		height: 100px;
+		width: 100%;
+		border: 1px solid;
+		
+	}
+	.li2{
+		height: 100px;
+		width: 80%;
+		border: 1px solid;
+		float: right;
+		text-align: left;
+		line-height: 15px;
+	}
